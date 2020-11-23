@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="247.795" height="91.517" viewBox="0 0 247.795 91.517">
+  <g id="logo" transform="translate(-304.961 -314)">
+    <g id="n" transform="translate(-451.548 -702)">
+      <g id="outline">
+        <path id="Path_42" data-name="Path 42" d="M-5531.574,1850.275l5.154,12.742h10.983l33.933-68.2h20.5" transform="translate(6437 -757)" fill="none" stroke="#000" stroke-width="3"/>
+        <path id="Path_41" data-name="Path 41" d="M-5489.679,1850.248l5.5,12.727h10.085l39.641-78.193-8.035-10.872" transform="translate(6437 -757)" fill="none" stroke="#000" stroke-width="3"/>
+        <line id="Line_1" data-name="Line 1" x2="6" y2="13.782" transform="translate(914.5 1091.5)" fill="none" stroke="#000" stroke-width="3"/>
+        <line id="Line_2" data-name="Line 2" x2="8" y2="13" transform="translate(947.5 1025.5)" fill="none" stroke="#000" stroke-width="3"/>
+        <line id="Line_3" data-name="Line 3" x2="7" y2="14" transform="translate(955.5 1091.5)" fill="none" stroke="#000" stroke-width="3"/>
+      </g>
+      <path id="body" d="M-2153.289-900.218h-10.851l33.5-66.595h-31.333l-33.108,66.595h-11.052L-2166.149-978h51.642Z" transform="translate(3110.136 1994)"/>
+    </g>
+    <g id="e" transform="translate(-495 -692.78)">
+      <g id="outline-2" data-name="outline">
+        <path id="Path_40" data-name="Path 40" d="M-5522.014,1799.955l7.642-15.131h41.267l4.83-6.344-6.4-13.987" transform="translate(6437 -757)" fill="none" stroke="#000" stroke-width="3"/>
+        <path id="Path_39" data-name="Path 39" d="M-5539.511,1833.037l8.34-16.152h41.569l4.5-6.283-6.6-11.248" transform="translate(6437 -757)" fill="none" stroke="#000" stroke-width="3"/>
+        <path id="Path_38" data-name="Path 38" d="M-5563.561,1841.1l5.249,11.9h53.084l4.229-5.806-7.831-14.157" transform="translate(6437 -757)" fill="none" stroke="#000" stroke-width="3"/>
+        <line id="Line_4" data-name="Line 4" x2="8" y2="14" transform="translate(923.5 1082.5)" fill="none" stroke="#000" stroke-width="3"/>
+        <line id="Line_5" data-name="Line 5" x2="7" y2="10.78" transform="translate(940.5 1048.5)" fill="none" stroke="#000" stroke-width="3"/>
+        <line id="Line_6" data-name="Line 6" x2="5" y2="10" transform="translate(900.5 1050.28)" fill="none" stroke="#000" stroke-width="3"/>
+        <line id="Line_5-2" data-name="Line 5" x2="6" y2="12" transform="translate(957 1015)" fill="none" stroke="#000" stroke-width="3"/>
+        <line id="Line_6-2" data-name="Line 6" x2="6" y2="11.22" transform="translate(916.5 1017.28)" fill="none" stroke="#000" stroke-width="3"/>
+      </g>
+      <path id="body-2" data-name="body" d="M-2121.136-966.812h-40.84l-11.349,23.61h41.8l-4.469,8.938-41.449-.046-12.734,24.733,41.5.075-4.634,9.284h-52.828L-2166.149-978h51.642Z" transform="translate(3078.136 1984.78)"/>
+    </g>
+    <g id="z" transform="translate(-439 -694)">
+      <g id="outline-3" data-name="outline">
+        <path id="Path_36" data-name="Path 36" d="M-5691.659,1842.062-5687,1853h52.484l4.337-5.739-6.656-13.208" transform="translate(6437 -757)" fill="none" stroke="#000" stroke-width="3"/>
+        <path id="Path_35" data-name="Path 35" d="M-5601.386,1765.712l5.593,11.563L-5655.876,1837" transform="translate(6437 -757)" fill="none" stroke="#000" stroke-width="3"/>
+        <line id="Line_7" data-name="Line 7" x2="6.991" y2="13" transform="translate(795.5 1083.5)" fill="none" stroke="#000" stroke-width="3"/>
+        <path id="Path_37" data-name="Path 37" d="M-5658.213,1775.43l6.07,9.227h20.538" transform="translate(6437 -757)" fill="none" stroke="#000" stroke-width="3"/>
+      </g>
+      <path id="body-3" data-name="body" d="M-2207.5-900.241l67.991-66.7h-34.642l6.814-11.058h52.828l-70.653,68.372h35.178l-4.754,9.387Z" transform="translate(2951.498 1986)"/>
+    </g>
+  </g>
+</svg>
